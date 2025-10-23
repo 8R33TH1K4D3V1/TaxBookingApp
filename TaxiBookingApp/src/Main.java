@@ -12,7 +12,7 @@ import java.util.List;
  */
 public final class Main {
 
-    // Private constructor to prevent instantiation hello
+    // Private constructor to prevent instantiation
     private Main() {}
 
     public static void main(final String[] args) {
